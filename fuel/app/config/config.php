@@ -389,5 +389,80 @@ return array(
 			'package' => 'https://github.com/ucfopen/last-chance-cadet-materia-widget/releases/download/v2.0.4/last-chance-cadet.wigt',
 			'checksum' => 'https://github.com/ucfopen/last-chance-cadet-materia-widget/releases/download/v2.0.4/last-chance-cadet-build-info.yml'
 		],
+		[
+			'id' => 15,
+			'package' => 'https://github.com/ucfopen/active-voice-verb-concentration-materia-widget/releases/download/v1.0.1/active-voice-verb-concentration.wigt',
+			'checksum' => 'https://github.com/ucfopen/active-voice-verb-concentration-materia-widget/releases/download/v1.0.1/active-voice-verb-concentration-build-info.yml'
+		],
+		[
+			'id' => 16,
+			'package' => 'https://github.com/ucfopen/adverbial-clause-roulette-materia-widget/releases/download/v1.0.3/adverb-roulette.wigt',
+			'checksum' => 'https://github.com/ucfopen/adverbial-clause-roulette-materia-widget/releases/download/v1.0.3/adverb-roulette-build-info.yml'
+		],
+		[
+			'id' => 17,
+			'package' => 'https://github.com/ucfopen/be-finder-materia-widget/releases/download/v1.0.0/be-finder.wigt',
+			'checksum' => 'https://github.com/ucfopen/be-finder-materia-widget/releases/download/v1.0.0/be-finder-build-info.yml'
+		],
+		[
+			'id' => 18,
+			'package' => 'https://github.com/ucfopen/infinity-dodgeball-materia-widget/releases/download/v1.0.5/infinity-dodgeball.wigt',
+			'checksum' => 'https://github.com/ucfopen/infinity-dodgeball-materia-widget/releases/download/v1.0.5/infinity-dodgeball-build-info.yml'
+		],
+		[
+			'id' => 19,
+			'package' => 'https://github.com/ucfopen/materia-template-widget/releases/download/v1.1.0/template-widget.wigt',
+			'checksum' => 'https://github.com/ucfopen/materia-template-widget/releases/download/v1.1.0/template-widget-build-info.yml'
+		],
+		[
+			'id' => 20,
+			'package' => 'https://github.com/ucfopen/normal-distribution-calculator-materia-widget/releases/download/v1.0.2/normal-distribution-calculator.wigt',
+			'checksum' => 'https://github.com/ucfopen/normal-distribution-calculator-materia-widget/releases/download/v1.0.2/normal-distribution-calculator-build-info.yml'
+		],
+		[
+			'id' => 21,
+			'package' => 'https://github.com/ucfopen/nursing-space-simulator-materia-widget/releases/download/v0.3.2/nursing-simulation-builder.wigt',
+			'checksum' => 'https://github.com/ucfopen/nursing-space-simulator-materia-widget/releases/download/v0.3.2/nursing-simulation-builder-build-info.yml'
+		],
+		[
+			'id' => 22,
+			'package' => 'https://github.com/ucfopen/privilege-walk-materia-widget/releases/download/v1.0.3/privilege-walk.wigt',
+			'checksum' => 'https://github.com/ucfopen/privilege-walk-materia-widget/releases/download/v1.0.3/privilege-walk-build-info.yml'
+		],
+		[
+			'id' => 23,
+			'package' => 'https://github.com/ucfopen/proof-reading-symbols-materia-widget/releases/download/v1.1.1/proof-reading-symbols.wigt',
+			'checksum' => 'https://github.com/ucfopen/proof-reading-symbols-materia-widget/releases/download/v1.1.1/proof-reading-symbols-build-info.yml'
+		],
+		[
+			'id' => 24,
+			'package' => 'https://github.com/ucfopen/radar-grapher-materia-widget/releases/download/v1.0.3/radar-grapher.wigt',
+			'checksum' => 'https://github.com/ucfopen/radar-grapher-materia-widget/releases/download/v1.0.3/radar-grapher-build-info.yml'
+		],
+		[
+			'id' => 25,
+			'package' => 'https://github.com/ucfopen/secret-spreadsheet-materia-widget/releases/download/v1.0.0/secret-spreadsheet.wigt',
+			'checksum' => 'https://github.com/ucfopen/secret-spreadsheet-materia-widget/releases/download/v1.0.0/secret-spreadsheet-build-info.yml'
+		],
+		[
+			'id' => 26,
+			'package' => 'https://github.com/ucfopen/sequencer-materia-widget/releases/download/v1.0.4/sequencer.wigt',
+			'checksum' => 'https://github.com/ucfopen/sequencer-materia-widget/releases/download/v1.0.4/sequencer-build-info.yml'
+		],
+		[
+			'id' => 27,
+			'package' => 'https://github.com/ucfopen/slope-finder-materia-widget/releases/download/v1.0.1/slope-finder.wigt',
+			'checksum' => 'https://github.com/ucfopen/slope-finder-materia-widget/releases/download/v1.0.1/slope-finder-build-info.yml'
+		],
+		[
+			'id' => 28,
+			'package' => 'https://github.com/ucfopen/source-filter-theory-materia-widget/releases/download/v2.0.0/source-filter-theory.wigt',
+			'checksum' => 'https://github.com/ucfopen/source-filter-theory-materia-widget/releases/download/v2.0.0/source-filter-theory-build-info.yml'
+		],
+		[
+			'id' => 29,
+			'package' => 'https://github.com/ucfopen/static-preposition-locator-materia-widget/releases/download/v1.0.0/static-preposition-locator.wigt',
+			'checksum' => 'https://github.com/ucfopen/static-preposition-locator-materia-widget/releases/download/v1.0.0/static-preposition-locator-build-info.yml'
+		],
 	],
 );
