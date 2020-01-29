@@ -336,8 +336,8 @@ return array(
 		],
 		[
 			'id' => 4,
-			'package'  => 'https://github.com/ucfopen/enigma-materia-widget/releases/download/v2.1.2/enigma.wigt',
-			'checksum' => 'https://github.com/ucfopen/enigma-materia-widget/releases/download/v2.1.2/enigma-build-info.yml',
+			'package'  => 'https://github.com/ucfopen/enigma-materia-widget/releases/download/v2.1.3/enigma.wigt',
+			'checksum' => 'https://github.com/ucfopen/enigma-materia-widget/releases/download/v2.1.3/enigma-build-info.yml',
 		],
 		[
 			'id' => 5,
@@ -378,6 +378,16 @@ return array(
 			'id' => 12,
 			'package' => 'https://github.com/ucfopen/survey-materia-widget/releases/download/v1.0.3/simple-survey.wigt',
 			'checksum' => 'https://github.com/ucfopen/survey-materia-widget/releases/download/v1.0.3/simple-survey-build-info.yml'
+		],
+		[
+			'id' => 13,
+			'package' => 'https://github.com/ucfopen/word-guess-materia-widget/releases/download/v1.0.1/word-guess.wigt',
+			'checksum' => 'https://github.com/ucfopen/word-guess-materia-widget/releases/download/v1.0.1/word-guess-build-info.yml'
+		],
+		[
+			'id' => 14,
+			'package' => 'https://github.com/ucfopen/last-chance-cadet-materia-widget/releases/download/v2.0.4/last-chance-cadet.wigt',
+			'checksum' => 'https://github.com/ucfopen/last-chance-cadet-materia-widget/releases/download/v2.0.4/last-chance-cadet-build-info.yml'
 		],
 	],
 );
