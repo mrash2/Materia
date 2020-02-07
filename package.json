@@ -22,8 +22,8 @@
   },
   "devDependencies": {
     "browser-sync": "^2.26.5",
-    "concurrently": "^4.1.0",
-    "nodemon": "^1.19.0"
+    "concurrently": "^5.1.0",
+    "nodemon": "^2.0.2"
   },
   "nodemonConfig": {
     "ext": "js,css",
@@ -42,5 +42,5 @@
     "hammerjs": "hammerjs/hammer.js#v2.0.8",
     "spinjs": "https://github.com/fgnass/spin.js.git#1.2.8"
   },
-  "version": "6.0.1"
+  "version": "6.0.2"
 }
